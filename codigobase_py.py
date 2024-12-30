@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 import plotly.express as px
-import streamlit as st
+#import streamlit as st
 
 #streamlit run codigoBase.py
 
